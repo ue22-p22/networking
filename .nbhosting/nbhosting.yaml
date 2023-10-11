@@ -1,7 +1,5 @@
 builds:
   - id: slides
-    name: Slides Basile
-    description: Slides HTML sur un site dédié
-    directory: .
-    script: echo Nothing to builds
+    name: Slides
+    description: Slides HTML
     readthedocs_url: https://slides.bmarchand.fr/
