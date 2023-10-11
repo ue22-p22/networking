@@ -2,4 +2,4 @@ builds:
   - id: slides
     name: Slides
     description: Slides HTML
-    readthedocs_url: https://slides.bmarchand.fr/
+    external_url: https://slides.bmarchand.fr/
